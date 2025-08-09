@@ -119,8 +119,7 @@ h2{
 .contact-section {
   max-width: 600px;
   margin: 40px auto;
-  background: white;
-background-image: url("wall.webp");
+  background-color: white;
   padding: 30px;
   border-radius: 8px;
   box-shadow: 0 3px 8px rgba(0,0,0,0.1);
